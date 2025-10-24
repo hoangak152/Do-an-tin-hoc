@@ -1,0 +1,10 @@
+D:\hoang\DoAnTinHoc\bin\Debug\DoAnTinHoc.exe.config
+D:\hoang\DoAnTinHoc\bin\Debug\DoAnTinHoc.exe
+D:\hoang\DoAnTinHoc\bin\Debug\DoAnTinHoc.pdb
+D:\hoang\DoAnTinHoc\obj\Debug\DoAnTinHoc.csproj.AssemblyReference.cache
+D:\hoang\DoAnTinHoc\obj\Debug\DoAnTinHoc.Form1.resources
+D:\hoang\DoAnTinHoc\obj\Debug\DoAnTinHoc.Properties.Resources.resources
+D:\hoang\DoAnTinHoc\obj\Debug\DoAnTinHoc.csproj.GenerateResource.cache
+D:\hoang\DoAnTinHoc\obj\Debug\DoAnTinHoc.csproj.CoreCompileInputs.cache
+D:\hoang\DoAnTinHoc\obj\Debug\DoAnTinHoc.exe
+D:\hoang\DoAnTinHoc\obj\Debug\DoAnTinHoc.pdb
