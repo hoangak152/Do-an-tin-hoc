@@ -116,9 +116,6 @@ namespace DoAnTinHoc
             // Ghi ra file Out.csv
             WriteCsvFile(outputPath, csvData);
 
-            // Hiển thị nội dung Out.csv lên màn hình
-            var outData = ReadCsvFile(outputPath);
-            ShowDataOnGrid(outData);
         }
     }
 }
