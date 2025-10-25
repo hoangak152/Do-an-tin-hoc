@@ -116,15 +116,12 @@ namespace DoAnTinHoc
             // Ghi ra file Out.csv
             WriteCsvFile(outputPath, csvData);
 
-<<<<<<< HEAD
-=======
             
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
->>>>>>> a525980 (file doc ghi)
         }
     }
 }

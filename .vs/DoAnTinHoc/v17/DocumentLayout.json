@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\hoang\\DoAnTinHoc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|d:\\hoang\\doantinhoc\\docghi.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|solutionrelative:docghi.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|d:\\hoang\\doantinhoc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,24 +22,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\hoang\\DoAnTinHoc\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\hoang\\DoAnTinHoc\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAkwHwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwH8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T14:19:58.038Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "docghi.txt",
+              "DocumentMoniker": "D:\\hoang\\DoAnTinHoc\\docghi.txt",
+              "RelativeDocumentMoniker": "docghi.txt",
+              "ToolTip": "D:\\hoang\\DoAnTinHoc\\docghi.txt",
+              "RelativeToolTip": "docghi.txt",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-25T12:03:55.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\hoang\\DoAnTinHoc\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
