@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\hoang\\DoAnTinHoc\\",
+  "WorkspaceRootPath": "D:\\hoang\\DOANTINHOC_2025\\DoAnTinHoc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|d:\\hoang\\doantinhoc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|d:\\hoang\\doantinhoc_2025\\doantinhoc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|D:\\hoang\\DoAnTinHoc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|D:\\hoang\\DOANTINHOC_2025\\DoAnTinHoc\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|D:\\hoang\\DOANTINHOC_2025\\DoAnTinHoc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|D:\\hoang\\DOANTINHOC_2025\\DoAnTinHoc\\avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4549E11-D435-4ED1-9944-B07D9F469787}|DoAnTinHoc.csproj|solutionrelative:avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\hoang\\DoAnTinHoc\\Form1.cs",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\hoang\\DOANTINHOC_2025\\DoAnTinHoc\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\hoang\\DoAnTinHoc\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\hoang\\DOANTINHOC_2025\\DoAnTinHoc\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T14:19:58.038Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-10-31T05:44:48.852Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "avltree.cs",
+              "DocumentMoniker": "D:\\hoang\\DOANTINHOC_2025\\DoAnTinHoc\\avltree.cs",
+              "RelativeDocumentMoniker": "avltree.cs",
+              "ToolTip": "D:\\hoang\\DOANTINHOC_2025\\DoAnTinHoc\\avltree.cs",
+              "RelativeToolTip": "avltree.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T05:42:49.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\hoang\\DoAnTinHoc\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\hoang\\DoAnTinHoc\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\hoang\\DOANTINHOC_2025\\DoAnTinHoc\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\hoang\\DOANTINHOC_2025\\DoAnTinHoc\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T10:25:43.657Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-31T05:01:36.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\hoang\\DOANTINHOC_2025\\DoAnTinHoc\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\hoang\\DOANTINHOC_2025\\DoAnTinHoc\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAcwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T05:01:32.027Z",
+              "EditorCaption": ""
             }
           ]
         }
